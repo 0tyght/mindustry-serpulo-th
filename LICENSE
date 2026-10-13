@@ -1,20 +1,10 @@
-CC0 1.0 Universal — Public Domain Dedication
+Licensing for Serpulo Thai schematics 2.0
 
-The newly created schematic layouts and documentation in this repository are
-dedicated to the public domain under CC0 1.0 Universal.
-
-To the extent possible under law, the creators waive all copyright and related
-or neighboring rights to those original materials. You may copy, modify,
-distribute, and use those materials, including for commercial purposes,
-without asking permission.
-
-The complete CC0 1.0 Universal legal terms apply:
+Original campaign/unit layouts marked CC0-1.0 in manifest.json are dedicated to the public domain under CC0 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-This dedication does not apply to Mindustry's name, trademarks, source code,
-artwork, or other third-party materials. No game source code or game artwork
-is distributed in this repository. Schematic block references remain references
-to content provided by the user's installed copy of Mindustry.
+Adaptations from MindustryDesignIt/design-it retain the MIT license and source authors; see LICENSES/Design-It-MIT.txt and manifest.json.
+Original infrastructure additions marked MIT use LICENSES/Original-MIT.txt.
 
-No warranties are given. This dedication does not grant patent or trademark
-rights, or imply endorsement by the developers of Mindustry.
+Documentation is CC0-1.0; schematic licenses are stated per layout in manifest.json. Generated previews depict Mindustry game artwork; the artwork is not covered by that dedication. Mindustry is by Anuken and contributors under GPL-3.0; see https://github.com/Anuken/Mindustry/blob/v160.5/LICENSE.
+No original Mindustry executable or sprite atlas is distributed in this mod pack.

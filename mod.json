@@ -1,9 +1,9 @@
 {
   "name": "serpulo-th-schematics",
-  "displayName": "Serpulo • แบบก่อสร้างภาษาไทย",
-  "author": "ชุดจัดทำตามคำขอผู้ใช้",
-  "description": "44 แบบก่อสร้างภาษาไทย ใช้บล็อกเดิม สำหรับ Serpulo v8 รวมระบบแท่นส่งน้ำมันและแท่นรับน้ำ ไม่มี Java/JavaScript และไม่มีบล็อกเพิ่ม",
-  "version": "1.0.0",
+  "displayName": "Serpulo ไทย 2.0 — โรงงาน ฐาน และยูนิต",
+  "author": "Serpulo Thai / Design-It community",
+  "description": "246 แบบก่อสร้างภาษาไทย ใช้บล็อกเดิม ครอบคลุมการผลิต เหมือง ไฟ ขนส่ง ป้องกัน ฐานเริ่ม และยูนิตเจ็ดสาย T1–T5 รวมระบบส่งรับ v8 พร้อมคู่มือและพรีวิว",
+  "version": "2.0.0",
   "minGameVersion": "160.5",
   "hidden": true,
   "repo": "0tyght/mindustry-serpulo-th"
